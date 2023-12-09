@@ -1,4 +1,4 @@
-threehqv2
+const input01a = `threehqv2
 sxoneightoneckk9ldctxxnffqnzmjqvj
 1hggcqcstgpmg26lzxtltcgg
 nrhoneightkmrjkd7fivesixklvvfnmhsldrc
@@ -997,4 +997,6 @@ fvzcslpmgv174426
 nine1ztqbs
 eightndxxqxtwo3cqz47
 fiveeight792eightqskstrftdpccsrgskrhc
-26fmrrhhpthree6b
+26fmrrhhpthree6b`
+
+module.exports = input01a;
